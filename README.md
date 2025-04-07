@@ -195,6 +195,4 @@ Text: Hello
 
 🎯 **This assignment is your gateway to mastering stack logic using Java! Implement, test, and submit your CLI-based text editor. Let’s code like pros!** 💡
 
----
 
-Let me know if you want this scaffolded into a `GitHub Classroom repo template` — I can also zip a starter project with stub methods for students to implement.
